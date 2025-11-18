@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "An AI-powered image editor using Gemini 2.5 Flash Image to edit, cleanup, and reimagine photos with simple text prompts.",
+  "requestFramePermissions": []
+}
